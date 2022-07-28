@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+spreaditnow.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinity	5ec9a4506d975c682691e68dafeb760267f0ad272a70667339981cfb62c69ab6
+spreaditnow.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	5ec9a4506d975c682691e68dafeb760267f0ad272a70667339981cfb62c69ab6
+spreaditnow.azurewebsites.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.spreaditnow.in	TRUE	/	FALSE	1999999999	ARRAffinity	5ec9a4506d975c682691e68dafeb760267f0ad272a70667339981cfb62c69ab6
+www.spreaditnow.in	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	5ec9a4506d975c682691e68dafeb760267f0ad272a70667339981cfb62c69ab6
+www.spreaditnow.in	TRUE	/	FALSE	1999999999	SameSite	None
+
